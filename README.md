@@ -6,6 +6,7 @@ The system:
 - Reports the threat via a message to a mobile phone.
 - Alerts the target both vocally and visually.
 - Includes a flashlight that simulates an antenna for jamming communication frequencies, enabling the system to disrupt control of the target and neutralize it autonomously.
+  
 2.Functional specification of the project:
 The system is based on the Raspberry Pi 4 Model B.
 The system includes a Raspberry Pi v2 digital camera, and the system controller processes data received from the camera.
