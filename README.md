@@ -17,6 +17,7 @@ The system:
 - The system will send a notification to the user upon detecting a target.
 - The system will display the detected target on the screen.
 
+3.click on this link to see the video on how my final_project works: 
 
 
 
