@@ -2,7 +2,7 @@ import requests
 
 class Telegram:
 
-    def __init__(self, token='7418774889:AAHdwROdHNLjqabt6hfl5t3mAqjM0UStgi8', chat_id='1645618303', message='target detected'):
+    def __init__(self, token='', chat_id='', message='target detected'):
         self.token = token
         self.chat_id = chat_id
         self.message = message
